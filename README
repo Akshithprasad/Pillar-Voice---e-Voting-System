@@ -1,0 +1,41 @@
+# Pillar Voice
+
+### School Election Management System
+
+Pillar Voice is a digital school election management system developed using **Python and MySQL** as a Class XII Computer Science project.
+
+The system was designed to replace the traditional ballot-based election process with a more organized digital voting workflow.
+
+## Features
+
+* Student, teacher and administrator authentication
+* Candidate management
+* Digital vote casting
+* MySQL database integration
+* Automated vote counting
+* Overall election results
+* House-wise results
+* Position-wise results
+* Election data management
+
+## Technologies Used
+
+* **Python**
+* **MySQL**
+
+## How It Works
+
+The system provides separate workflows for students, teachers and administrators.
+
+Students can authenticate themselves and cast their votes digitally. Election data is stored in a MySQL database, while administrators can manage election records and generate different types of result tallies.
+
+## Real-World Deployment
+
+Pillar Voice was developed as a school project and was subsequently adopted by my school for conducting elections.
+
+The school transitioned from its traditional ballot-based voting process to digital voting using the system.
+
+
+This project was developed as a CBSE Class XII Computer Science investigatory project during the 2025–26 academic year.
+
+The project provided practical experience in Python programming, relational database design, Python–MySQL integration and developing a software solution for a real-world use case.
